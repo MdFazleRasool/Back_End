@@ -22,3 +22,4 @@ export const successResponse = (data,statusCodes,message) =>{
         message
     }) ;
 }
+//errorResponse(error)
